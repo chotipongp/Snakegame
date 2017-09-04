@@ -2,15 +2,15 @@
 ___
 
 StartGame: 
-![](C:\Users\HOLYCOW\Desktop\Snakegame-C-\1.png)
+![](https://github.com/chotipongp/Snakegame-C-/blob/master/1.PNG)
 
 Select game mode:
-![](C:\Users\HOLYCOW\Desktop\Snakegame-C-\2.png)
+![](https://github.com/chotipongp/Snakegame-C-/blob/master/2.PNG)
 
 Game interface:
-![](C:\Users\HOLYCOW\Desktop\Snakegame-C-\3.png)
+![](https://github.com/chotipongp/Snakegame-C-/blob/master/3.PNG)
 
 End game:
-![](C:\Users\HOLYCOW\Desktop\Snakegame-C-\4.png)
+![](https://github.com/chotipongp/Snakegame-C-/blob/master/4.PNG)
 
 
